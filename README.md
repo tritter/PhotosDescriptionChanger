@@ -1,8 +1,8 @@
-# Photos Date Changer
+# Photos Description Changer
 Change description of a range of pictures selected in OS X Photos. Always wanted to change lots of pictures, and give them the same description? This application allows you to easily change the description of a range of pictures in OS X Photos, in an easy and fast way.
 
 ## Download
-The application can be downloaded [here](http://ritterfeld.com/apps/release/PhotosDescriptionChanger.1.0.zip "download link release")
+The application can be downloaded [here](http://ritterfeld.com/apps/release/PhotosDescriptionChanger.1.0.zip "download link PhotosDescriptionChanger")
 
 
 ### Example
